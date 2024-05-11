@@ -34,7 +34,7 @@ if not os.path.exists(output_dir):
 
 # 遍历输入目录下的所有文件
 for filename in os.listdir(input_dir):
-    if filename.lower().endswith(('.png', '.jpg', '.webp', '.gif')):
+    if filename.lower().endswith(('.png', '.jpg', '.webp')):
         # 打开图像文件
         image_path = os.path.join(input_dir, filename)
         image = Image.open(image_path)
