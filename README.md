@@ -5,8 +5,6 @@
 
 ## 使用教程(打包整理后文件)
 
-<img src="/img/mark.webp" />
-
 1. <font size=3>打开 <code>user.ini</code> ，*里面的配置可自行修改* </font>
 <img src="https://cdn.c12th.cn/reverse-stu-allversions@1.0.37/2024/img/mark01.webp" />
 
